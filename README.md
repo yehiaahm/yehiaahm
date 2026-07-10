@@ -45,3 +45,9 @@ Academic advising and office-hours scheduling platform.
 
 - LinkedIn: https://www.linkedin.com/in/yahya-ahmed-035054325
 - Email: yehiaahmed195200@gmail.com
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=yehiaahm&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yehiaahm&layout=compact&theme=tokyonight)
