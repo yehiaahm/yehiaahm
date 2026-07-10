@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ChatGPT Image Jul 10, 2026, 02_33_27 PM.png" width="100%">
+</p>
+
 # Hi, I'm Yehia Ahmed 👋
 
 ## Full-Stack Developer | Building AI-Powered Products 🚀
