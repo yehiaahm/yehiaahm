@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Yehia Ahmed 👋
 
-<!--
-**yehiaahm/yehiaahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Developer | Building AI-Powered Products 🚀
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building scalable web applications, AI-powered products, and enterprise systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Full-Stack Developer
+- 🤖 Interested in AI & Machine Learning
+- 🌱 Currently building startup-ready products
+- 📍 Based in Egypt
+
+## 🛠 Tech Stack
+
+- React
+- Spring Boot
+- Node.js
+- Java
+- MySQL
+- PostgreSQL
+- Prisma
+- Git
+- Docker
+
+## 🌟 Featured Projects
+
+### 🏟️ Badya Sport Booking System
+AI-powered sports booking platform with matchmaking, smart scheduling, and analytics.
+
+### 🏢 AnimaSys ERP
+Enterprise management system for pet stores with inventory, sales, AI insights, and reporting.
+
+### 🐶 Pet Matching Platform
+A web application for matching pets for adoption and breeding.
+
+### 🎓 University Academic Advising System
+Academic advising and office-hours scheduling platform.
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/yahya-ahmed-035054325
+- Email: yehiaahmed195200@gmail.com
